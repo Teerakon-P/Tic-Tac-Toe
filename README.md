@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 - Tic Tac Toe Game made in Laravel 
+- PHP 7.4.11
 
 # How to play
 - เข้าไปที่ URL: http://127.0.0.1:8000/ 
