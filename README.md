@@ -15,10 +15,15 @@ $ php artisan serve
 
 # ไฟล์หลัก
 app\Http\Controllers\ApiController.php
+
 app\Http\Controllers\HomeController.php
+
 resources\views\layout\master.blade.php
+
 resources\views\playGame.blade.php
+
 resources\views\startGame.blade.php
+
 routes\web.php
 
 
