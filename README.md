@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Tic Toe Game made in Laravel 
+Tic Tac Toe Game made in Laravel 
 # How to play
 - เข้าไปที่ URL: http://127.0.0.1:8000/ 
 - เลือกขนาดตารางและ ผู้เล่น กด START
