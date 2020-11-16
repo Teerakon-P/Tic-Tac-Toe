@@ -8,4 +8,5 @@ Tic Toe Game made in Laravel
 - เมื่อเล่นจนจบเกม จะมีข้อความแสดงว่าใครชนะหรือเสมอ และมีปุ่ม NewGame แสดง 
 # Install
 $ cd TicTacToe
+
 $ php artisan serve
