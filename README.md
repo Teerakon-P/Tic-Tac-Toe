@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-$ php artisan serv
+$ php artisan serve
