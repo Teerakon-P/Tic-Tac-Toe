@@ -2,7 +2,20 @@
 - Tic Tac Toe Game made in Laravel 
 
 # Install
+
+$ git clone https://github.com/Teerakon-P/Tic-Tac-Toe.git
+
+- ออกจาก Command เข้าไปที่โฟลเดอร์โปรเจค Tic-Tac-Toe 
+
+- หาไฟล์ชื่อ (.env.example) ทำการ Rename ลบ (.example) ออก
+
+- เข้า Command 
+  
 $ cd TicTacToe
+
+$ composer install
+
+$ composer artisan key:generate
 
 $ php artisan serve
 
