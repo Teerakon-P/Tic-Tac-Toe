@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-size: 20px;
+}
+
+h1{
+    color: #006eff;
+}
+
+fieldset{
+    border:5px solid #0084ff;
+}
+
+.btn-outline-dark{
+    padding: 20px 35px;
+}
+
+.btn-light{
+    padding: 10px 25px;
+    font-size: 25px;
+}
+
+.xo{
+    font-size: 30px; 
+    color: rgb(170, 170, 170);
+}
+
+.text-decoration-none{
+    font-size: 30px;
+}
