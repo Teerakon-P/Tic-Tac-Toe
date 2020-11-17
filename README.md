@@ -5,7 +5,7 @@
 
 $ git clone https://github.com/Teerakon-P/Tic-Tac-Toe.git
 
-- ออกจาก Command เข้าไปที่โฟลเดอร์โปรเจค Tic-Tac-Toe 
+- ออกจาก Command เข้าไปที่โฟลเดอร์โปรเจค Tic-Tac-Toe ที่ได้ติดตั้งไว้
 
 - หาไฟล์ชื่อ (.env.example) ทำการ Rename ลบ (.example) ออก
 
