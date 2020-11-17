@@ -5,7 +5,7 @@
 
 $ git clone https://github.com/Teerakon-P/Tic-Tac-Toe.git
   
-$ cd TicTacToe
+$ cd Tic-Tac-Toe
 
 $ composer install
 
